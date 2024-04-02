@@ -1,0 +1,15 @@
+.info{
+    width: 400px;
+    height: 560px;
+    background-color: #ddd;
+    margin: 110px auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border-radius: 20px;
+}
+.info img {
+    height: 300px;
+    margin-bottom: 24px;
+}
